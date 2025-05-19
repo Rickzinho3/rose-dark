@@ -1,0 +1,23 @@
+{
+  "name": "rose-dark",
+  "displayName": "Rosé Dark",
+  "publisher": "HenriqueJFS",
+  "icon": "img/rose.png",
+  "description": "Dark rosé theme for VS Code/Cursor",
+  "version": "1.0.2",
+  "engines": {
+    "vscode": "*"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Rosé Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Rosé Dark-color-theme.json"
+      }
+    ]
+  }
+}
