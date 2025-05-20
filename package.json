@@ -4,7 +4,7 @@
   "publisher": "HenriqueJFS",
   "icon": "img/rose.png",
   "description": "Dark rosé theme for VS Code/Cursor",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "engines": {
     "vscode": "*"
   },
@@ -19,5 +19,9 @@
         "path": "./themes/Rosé Dark-color-theme.json"
       }
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Rickzinho3/rose-dark.git"
   }
 }
